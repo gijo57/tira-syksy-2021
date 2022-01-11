@@ -1,5 +1,6 @@
 def calculate(s):
-    # TODO
+    distances = {}
+
 
 if __name__ == "__main__":
     print(calculate("10110")) # 6
